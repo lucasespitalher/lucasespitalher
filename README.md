@@ -1,8 +1,8 @@
-# Hi there 👋
+<!-- # Hi there 👋 -->
 
 <!-- - 🔭 Atualmente estou trabalhando em ... -->
-- 🌱 Atualmente estou aprendendo Selenium Webscraping e aprimorando minhas habilidades de Django Framework.
-- 👯 Estou procurando colaborar em com projetos envolvendo Python e desenvolvimento Web.
+<!-- - 🌱 Atualmente estou aprendendo Selenium Webscraping e aprimorando minhas habilidades de Django Framework. -->
+<!-- - 👯 Estou procurando colaborar em com projetos envolvendo Python e desenvolvimento Web. -->
 <!-- - 🤔 Estou procurando ajuda com ... -->
 <!-- - 💬 Pergunte-me sobre ... -->
 <!-- - 📫 Como entrar em contato comigo: ... -->
