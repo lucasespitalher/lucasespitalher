@@ -22,9 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
      
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
           
           
 ## Contatos:
@@ -39,10 +37,11 @@
 
 <br>
 
+<!--
 <div>
   <a href="https://github.com/lucasespitalher"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasespitalher&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasespitalher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 <!-- ![Snake animation](https://github.com/lucasespitalher/lucasespitalher/blob/output/github-contribution-grid-snake.svg) -->
 <!-- **lucasespitalher/lucasespitalher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
